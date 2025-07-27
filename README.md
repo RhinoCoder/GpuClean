@@ -134,7 +134,10 @@ alias gpu-clear='gpu-clean --clear'
 alias gpu-status='gpu-clean --status'
 ```
 
-### Use in scripts
+
+
+### Use in scripts [X]
+### Its coming as a PyPI package, so this feature isn't enabled and there yet.
 ```python
 from gpu_cleaner import GPUMemoryCleaner
 
