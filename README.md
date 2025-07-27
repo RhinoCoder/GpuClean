@@ -1,6 +1,12 @@
 # GPU Memory Cleaner
 
+
+
+![alt text](Images/geforce-rtx-50series-nv-sfg-thumbnail-1920x1080.jpeg)
+
+
 Free your VRAM!, its frustrating when you are constantly doing any DL, or LLM application and your program crashes and you need to manually find and kill that procees. During this suffering (:O) I thought to make this as a tool open for everyone. Any contribution or suggestion to improve the code is welcome.
+
 
 ## Quick Start
 
